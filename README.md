@@ -10,10 +10,9 @@ Apprendre a utiliser des services/injectables. Solidifier les connaissances en a
 Layout
 -------------
 
-    ![layout](layout.png)
 
-Layout
--------------
+![layout](layout.png)
+
 
 Instructions
 -------------
