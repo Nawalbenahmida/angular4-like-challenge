@@ -10,7 +10,7 @@ Apprendre a utiliser des services/injectables. Solidifier les connaissances en a
 Layout
 -------------
 
-    ![Le layout du challenge](layout.png)
+    ![layout](layout.png)
 
 Layout
 -------------
