@@ -10,7 +10,7 @@ Apprendre a utiliser des services/injectables. Solidifier les connaissances en a
 Layout
 -------------
 
-    ![Le layout du challenge](./layout.png)
+    ![Le layout du challenge](https://raw.githubusercontent.com/simplonco/angular4-like-challenge/master/layout.png)
 
 Layout
 -------------
